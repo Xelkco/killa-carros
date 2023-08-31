@@ -1,0 +1,18 @@
+
+.tituloservicio{
+  text-align: center;
+}
+
+.card-img-top {
+  max-height: 200px;
+  object-fit: cover; 
+}
+
+carroencampo{
+  margin-left: 500;
+}
+
+my-auto{
+  margin-bottom: 20px;
+}
+
